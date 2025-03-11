@@ -23,3 +23,5 @@ console.log(`The total even numbers: ${even}`);
 console.log(`The total odd number: ${odd} `);
 console.log(`The sum of even numbers is: ${sumEven}`);
 console.log(`The sum of odd numbers is: ${sumOdd}`);
+
+console.log("Hellooo")
